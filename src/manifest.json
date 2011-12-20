@@ -1,0 +1,14 @@
+{
+  "name": "Weblabor.hu blogmark",
+  "version": "1.0",
+  "description": "Blogmark beküldése weblaabor.hu szerkesztőség számára",
+  "browser_action": {
+    "default_icon": "icon-48.png",
+    "popup": "popup.html"
+  },
+  "icons": {
+    "128": "icon-128.png",
+    "48": "icon-48.png"
+  },
+  "permissions": [ "tabs", "http://*/*", "https://*/*" ]
+}

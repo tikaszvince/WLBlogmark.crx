@@ -1,5 +1,8 @@
 # Weblabor Blogmark Google Chrome/Chromeium extension
 
+*Ez a kiterjesztés TESZT verzió! Használatából eredő károkért a készítő
+nem vállal felelősséget!* 
+
 Idézet a http://weblabor.hu/weblabor/segitseg oldalról:
 > A blogmarkok rövid leírással rendelkező felhívások máshol megjelent tartalmakra.
 > A címüknek a hivatkozott oldal nyelvén kell íródniuk, bár nem kell feltétlenül
@@ -11,4 +14,4 @@ Idézet a http://weblabor.hu/weblabor/segitseg oldalról:
 > tartalmakra mutatnak.
 
 ## Képernyőkép
-![blogmark beküldése képernyőkép](/doc/screenshot-01.png)
+![blogmark beküldése képernyőkép](https://github.com/tikaszvince/WLBlogmark.crx/raw/master/doc/screenshot-01.png)

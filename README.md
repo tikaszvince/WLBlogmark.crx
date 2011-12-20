@@ -14,4 +14,4 @@ Idézet a http://weblabor.hu/weblabor/segitseg oldalról:
 > tartalmakra mutatnak.
 
 ## Képernyőkép
-![blogmark beküldése képernyőkép](/doc/screenshot-01.png)
+![blogmark beküldése képernyőkép](https://github.com/tikaszvince/WLBlogmark.crx/raw/master/doc/screenshot-01.png)
